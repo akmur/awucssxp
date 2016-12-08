@@ -11,4 +11,5 @@ input {
     min-width: 15.625rem;
     padding: .625rem .9375rem;
     width: 100%;
+    background: red;
 }

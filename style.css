@@ -1,0 +1,14 @@
+input {
+    line-height: 1.75em;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    background: #a9ccd9;
+    border: 1px solid #a9ccd9;
+    color: #242424;
+    font-weight: 600;
+    height: 2.75rem;
+    min-width: 15.625rem;
+    padding: .625rem .9375rem;
+    width: 100%;
+}
